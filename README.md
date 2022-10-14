@@ -42,6 +42,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OAT/OAT/blob/output/snake.svg" alt="Snake animation" />
 
-###
