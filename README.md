@@ -42,4 +42,6 @@
 
 ###
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e08729ced78d29352aa119?variant=dark)](https://roadmap.sh)
 
+###
