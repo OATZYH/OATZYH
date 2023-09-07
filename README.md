@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is OAT and I'm a student from CPE KMUTT</p>
+<h3 align="center">My name is OAT and I'm a student from CPE KMUTT</h3>
 
 ###
 
