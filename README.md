@@ -3,8 +3,14 @@
 ###
 
 <h3 align="center">My name is OAT and I'm a student from CPE KMUTT</h3>
+
 <div align="center">
-<a href="https://sarun-resume.vercel.app/">See my RESUME</a>
+  <a href="https://oatzyhport.vercel.app/">
+    <img src="/images/web-port-click.png" width="400" alt="Port"/>
+  </a>
+  <a href="https://sarun-resume.vercel.app/">
+    <img src="/images/web-resume-click.png" width="400" alt="Resume"/>
+  </a>
 </div>
 
 ###
